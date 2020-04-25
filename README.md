@@ -1,2 +1,2 @@
 # log
-Joomla Framework Log Package
+Dazzle Framework Log Package
